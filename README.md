@@ -23,6 +23,9 @@ I  maintain a social media presence across platforms under the name [@techieinpr
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" height="70"/> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="70"/> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" height="70"/> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" height="70"/>
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techieinprague&theme=light)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=techieinprague&theme=dark&hide=contribs,prs)
 
 
 <!--
