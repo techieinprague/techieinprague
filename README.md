@@ -10,7 +10,7 @@ A Junior Software Engineer at <img src="https://cdn.worldvectorlogo.com/logos/ib
 
 
 
-I  maintain a social media presence across platforms under the name [@techieinprague](https://gph.is/st/mg2eozY) where I post about my Software development journey and connect with the developer community. 
+I  maintain a social media presence across platforms under the name [@techieinprague](https://techieinprague.com) where I post about my Software development journey and connect with the developer community. 
 
 ---
 
