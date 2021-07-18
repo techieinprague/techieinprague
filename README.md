@@ -18,7 +18,7 @@ I  maintain a social media presence across platforms under the name [@techieinpr
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="70"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" height="70"/> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="70"/> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" height="70"/> <img src="https://github.com/devicons/devicon/blob/master/icons/salesforce/salesforce-original.svg" height="80"/> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="70"/> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height="70"/> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" height="70"/> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" height="70"/> <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" height="70"/> 
 
-:toolbox:  Technologies Currently Learning
+:toolbox:  Technologies I'm Currently Learning
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" height="70"/> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" height="70"/> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" height="70"/> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" height="70"/>
 
