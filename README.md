@@ -6,7 +6,7 @@
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCFh6ZSOenzbadqX2ecx6i5A?label=YouTube%20Coming%20Soon%21&style=social)
 
 
-A Junior Software Engineer at <img src="https://cdn.worldvectorlogo.com/logos/ibm.svg" height="15"/> working with JavaScript and Salesforce technologies. <img src="https://cdn.worldvectorlogo.com/logos/salesforce-2.svg" height="30"/>
+A junior Software Engineer at <img src="https://cdn.worldvectorlogo.com/logos/ibm.svg" height="15"/> working with JavaScript and Salesforce technologies. <img src="https://cdn.worldvectorlogo.com/logos/salesforce-2.svg" height="30"/>
 
 
 
