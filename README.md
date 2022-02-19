@@ -10,7 +10,7 @@ A junior Software Engineer working with Salesforce and JavaScript technologies.
 
 
 
-I  maintain a social media presence across platforms under the name [@techieinprague](https://techieinprague.com) where I post about my Software development journey and connect with the developer community. 
+I  maintain a social media presence across platforms under the name [@techieinprague](https://www.youtube.com/channel/UCFTHD9Uo4Wh1bz-smkcfIPQ/videos) where I post about my Software development journey and connect with the developer community. 
 
 ---
 
