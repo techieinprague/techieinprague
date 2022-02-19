@@ -3,10 +3,10 @@
 ---
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/techieinprague?style=social)
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCFh6ZSOenzbadqX2ecx6i5A?label=YouTube%20Coming%20Soon%21&style=social)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCFTHD9Uo4Wh1bz-smkcfIPQ?label=YouTube%20Coming%20Soon%21&style=social)
 
-
-A junior Software Engineer at <img src="https://cdn.worldvectorlogo.com/logos/ibm.svg" height="15"/> working with JavaScript and Salesforce technologies. <img src="https://cdn.worldvectorlogo.com/logos/salesforce-2.svg" height="30"/>
+<img src="https://cdn.worldvectorlogo.com/logos/salesforce-2.svg" height="30"/>
+A junior Software Engineer working with Salesforce and JavaScript technologies. 
 
 
 
