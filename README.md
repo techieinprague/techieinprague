@@ -5,8 +5,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/techieinprague?style=social)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCFTHD9Uo4Wh1bz-smkcfIPQ?label=Subscribe)
 
-<img src="https://cdn.worldvectorlogo.com/logos/salesforce-2.svg" height="30"/>
-A junior Software Engineer working with Salesforce and JavaScript technologies. 
+A Software Engineer working with Salesforce and JavaScript technologies. 
 
 
 
