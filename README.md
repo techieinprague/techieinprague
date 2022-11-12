@@ -1,24 +1,21 @@
-### Hey,  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" /> 
+### Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" /> 
 
 ---
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/techieinprague?style=social)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCFTHD9Uo4Wh1bz-smkcfIPQ?label=Subscribe)
 
-A SWE working with Salesforce and other JavaScript technologies. 
-
-
-I  make videos on the internet [@techieinprague](https://www.youtube.com/channel/UCFTHD9Uo4Wh1bz-smkcfIPQ/videos) 
+I'm a SWE working with Salesforce and other JavaScript technologies. I  make videos on the internet [@techieinprague](https://www.youtube.com/channel/UCFTHD9Uo4Wh1bz-smkcfIPQ/videos) 
 
 ---
 
 :toolbox:  Technologies I've Worked With 
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="20"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" height="20"/> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="20"/> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" height="20"/> <img src="https://github.com/devicons/devicon/blob/master/icons/salesforce/salesforce-original.svg" height="20"/> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="20"/> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height="20"/> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" height="20"/> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" height="20"/> <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" height="20"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="30"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" height="30"/> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="30"/> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" height="30"/> <img src="https://github.com/devicons/devicon/blob/master/icons/salesforce/salesforce-original.svg" height="30"/> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="30"/> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height="30"/> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" height="30"/> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" height="30"/> <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" height="30"/> 
 
 :toolbox:  Technologies I'm Currently Learning
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" height="20"/> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" height="20"/> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" height="20"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" height="30"/> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" height="30"/> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" height="30"/>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techieinprague&theme=light)](https://github.com/anuraghazra/github-readme-stats)
