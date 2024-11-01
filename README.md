@@ -5,7 +5,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/techieinprague?style=social)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCFTHD9Uo4Wh1bz-smkcfIPQ?label=Subscribe)
 
-I'm a SWE working with Salesforce and other JavaScript technologies. I  make videos on the internet [@aslah](https://www.youtube.com/channel/UCFTHD9Uo4Wh1bz-smkcfIPQ/videos) 
+I'm a SWE working mostly with Enterprise apps and other technologies. 
 
 ---
 
