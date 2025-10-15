@@ -9,18 +9,9 @@ I'm a SWE working mostly with Enterprise apps and other technologies.
 
 ---
 
-:toolbox:  Technologies I've Worked With 
+Most of my projects & contributions are for a private repo. Here's my commit heat map from my private [github](https://github.com/ahzlah);
+<img width="2556" height="550" alt="image" src="https://github.com/user-attachments/assets/f12151a0-90a0-4aa6-a351-9314c0b853f2" />
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="30"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" height="30"/> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="30"/> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" height="30"/> <img src="https://github.com/devicons/devicon/blob/master/icons/salesforce/salesforce-original.svg" height="30"/> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="30"/> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height="30"/> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" height="30"/> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" height="30"/> <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" height="30"/> 
-
-:toolbox:  Technologies I'm Currently Learning
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" height="30"/> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" height="30"/> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" height="30"/>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techieinprague&theme=light)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=techieinprague&theme=dark&hide=contribs,prs)
 
 
 <!--
