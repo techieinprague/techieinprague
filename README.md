@@ -9,7 +9,7 @@ I'm a SWE working mostly with Enterprise apps and other technologies.
 
 ---
 
-Most of my projects & contributions are for a private repo. Here's my commit heat map from my private [github](https://github.com/ahzlah);
+Most of my projects & contributions are for a private repos. Here's my commit heat map from my private [github](https://github.com/ahzlah);
 <img width="2556" height="550" alt="image" src="https://github.com/user-attachments/assets/f12151a0-90a0-4aa6-a351-9314c0b853f2" />
 
 
